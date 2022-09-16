@@ -1,0 +1,146 @@
+{
+  "color": {
+    "status": {
+      "neutral": {
+        "type": "color",
+        "category": "color",
+        "name": "neutral",
+        "title": "Color Status Neutral",
+        "description": "Default neutral status color.",
+        "theme": "fold",
+        "value": "#726e77",
+        "darkValue": "#59565d"
+      },
+      "warning": {
+        "type": "color",
+        "category": "color",
+        "name": "warning",
+        "title": "Color Status Warning",
+        "description": "Default warning status color. Used to display information that needs user’s attention and may require further steps.",
+        "theme": "fold",
+        "value": "#f0c044",
+        "darkValue": "#cb9e2a"
+      },
+      "highlight": {
+        "type": "color",
+        "category": "color",
+        "name": "highlight",
+        "title": "Color Status Highlight",
+        "description": "Default highlight status color. Used to highlight specific items in the interface.",
+        "theme": "fold",
+        "value": "#7d49c1",
+        "darkValue": "#6a39a7"
+      },
+      "danger": {
+        "type": "color",
+        "category": "color",
+        "name": "danger",
+        "title": "Color Status Danger",
+        "description": "Default danger status color. Used to communicate problems that have to be resolved so that user can continue forward. This color should be always used for e.g. highlighting errors.",
+        "theme": "fold",
+        "value": "{color.base.error.value}",
+        "darkValue": "#8e3f2f"
+      },
+      "success": {
+        "type": "color",
+        "category": "color",
+        "name": "success",
+        "title": "Color Status Success",
+        "description": "Default success status color. Used to convey success states. For example, you might show a success message that tells the user that changes were saved or something was completed.",
+        "theme": "fold",
+        "value": "{color.base.success.value}",
+        "darkValue": "#446732"
+      },
+      "info": {
+        "type": "color",
+        "category": "color",
+        "name": "info",
+        "title": "Color Status Info",
+        "description": "Default info status color. Used to convey general information that isn’t critical. For example, you might show an alert that asks for user feedback.",
+        "theme": "fold",
+        "value": "{color.base.accent.value}",
+        "darkValue": "{color.base.accent.darkValue}"
+      },
+      "progress": {
+        "type": "color",
+        "category": "color",
+        "name": "progress",
+        "title": "Color Status Progress",
+        "description": "Default progress status color. Used to convey something that’s in progress.",
+        "theme": "fold",
+        "value": "#00838a",
+        "darkValue": "#006b70"
+      },
+      "neutral_weak": {
+        "type": "color",
+        "category": "color",
+        "name": "neutral_weak",
+        "title": "Color Status Neutral Weak",
+        "description": "Weak neutral status color. Used for the badge default state.",
+        "theme": "fold",
+        "value": "#e3e3e3",
+        "darkValue": "#3b3b3b"
+      },
+      "warning_weak": {
+        "type": "color",
+        "category": "color",
+        "name": "warning_weak",
+        "title": "Color Status Warning Weak",
+        "description": "Weak warning status color. Used to display information that needs a user’s attention and may require further steps.",
+        "theme": "fold",
+        "value": "#ffe9bd",
+        "darkValue": "#534c1d"
+      },
+      "highlight_weak": {
+        "type": "color",
+        "category": "color",
+        "name": "highlight_weak",
+        "title": "Color Status Highlight Weak",
+        "description": "Weak highlight status color. Used to highlight specific items in the interface.",
+        "theme": "fold",
+        "value": "#eedcff",
+        "darkValue": "#3c3149"
+      },
+      "danger_weak": {
+        "type": "color",
+        "category": "color",
+        "name": "danger_weak",
+        "title": "Color Status Danger Weak",
+        "description": "Weak danger status color. Used to communicate problems that have to be resolved so that user can continue forward. This color should be always used for e.g. highlighting errors.",
+        "theme": "fold",
+        "value": "#ffd0c7",
+        "darkValue": "#5c3129"
+      },
+      "success_weak": {
+        "type": "color",
+        "category": "color",
+        "name": "success_weak",
+        "title": "Color Status Success Weak",
+        "description": "Weak success status color.  Used to convey success states. For example, you might show a success message that tells the user that changes were saved or something was completed.",
+        "theme": "fold",
+        "value": "#d8e5c8",
+        "darkValue": "#34452b"
+      },
+      "info_weak": {
+        "type": "color",
+        "category": "color",
+        "name": "info_weak",
+        "title": "Color Status Info Weak",
+        "description": "Weak info status color. Used to convey general information that isn’t critical. For example, you might show an alert that asks for user feedback.",
+        "theme": "fold",
+        "value": "#ccdaff",
+        "darkValue": "#2f3956"
+      },
+      "progress_weak": {
+        "type": "color",
+        "category": "color",
+        "name": "progress_weak",
+        "title": "Color Status Progress Weak",
+        "description": "Weak progress status color. Used to convey something that’s in progress.",
+        "theme": "fold",
+        "value": "#c4f0f2",
+        "darkValue": "#2a3d41"
+      }
+    }
+  }
+}

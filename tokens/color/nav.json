@@ -1,0 +1,36 @@
+{
+  "color": {
+    "nav": {
+      "surface": {
+        "type": "color",
+        "category": "color",
+        "name": "surface",
+        "title": "Color Nav Surface",
+        "description": "Default surface color for sidebar navigation. Used as alias for default button hover background and active hover color as well.",
+        "theme": "fold",
+        "value": "{color.base.light.value}",
+        "darkValue": "{color.base.light.darkValue}"
+      },
+      "heading": {
+        "type": "color",
+        "category": "color",
+        "name": "heading",
+        "title": "Color Nav Heading",
+        "description": "Default heading color for sidebar navigation.",
+        "theme": "fold",
+        "value": "#8fa1aa",
+        "darkValue": "#9b9b9b"
+      },
+      "hover": {
+        "type": "color",
+        "category": "color",
+        "name": "hover",
+        "title": "Color Nav Hover",
+        "description": "Default hover color for sidebar navigation.",
+        "theme": "fold",
+        "value": "#eaf0f0",
+        "darkValue": "#2c313a"
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "size": {
+    "space": {
+      "xxl": {
+        "type": "number",
+        "category": "space",
+        "name": "space_xxl",
+        "value": "72px",
+        "title": "Space XXL",
+        "description": "This is a xx-large space.",
+        "originalValue": "72px"
+      },
+      "xl": {
+        "type": "number",
+        "category": "space",
+        "name": "space_xl",
+        "value": "36px",
+        "title": "Space XL",
+        "description": "This is a x-large space.",
+        "originalValue": "36px"
+      },
+      "l": {
+        "type": "number",
+        "category": "space",
+        "name": "space_l",
+        "value": "24px",
+        "title": "Space L",
+        "description": "This is a large space.",
+        "originalValue": "24px"
+      },
+      "m": {
+        "type": "number",
+        "category": "space",
+        "name": "space_m",
+        "value": "16px",
+        "title": "Space M",
+        "description": "This is a medium space.",
+        "originalValue": "16px"
+      },
+      "s": {
+        "type": "number",
+        "category": "space",
+        "name": "space_s",
+        "value": "8px",
+        "title": "Space S",
+        "description": "This is a small space.",
+        "originalValue": "8px"
+      }
+    }
+  }
+}

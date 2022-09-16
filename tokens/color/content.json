@@ -1,0 +1,46 @@
+{
+  "color": {
+    "content": {
+      "background": {
+        "type": "color",
+        "category": "color",
+        "name": "background",
+        "title": "Color Background",
+        "description": "Default application background color. Should be set to either html or body element.",
+        "theme": "fold",
+        "value": "{color.base.white.value}",
+        "darkValue": "#181b20"
+      },
+      "accent": {
+        "type": "color",
+        "category": "color",
+        "name": "n_color_accent",
+        "title": "Color Accent",
+        "description": "Accent color. Used as primary button background, hero area background, and as a link color. This color provides accessible contrast when used for text on light background.",
+        "theme": "fold",
+        "value": "{color.base.accent.value}",
+        "darkValue": "{color.base.accent.darkValue}"
+      },
+      "active": {
+        "type": "color",
+        "category": "color",
+        "name": "active",
+        "title": "Color Active",
+        "description": "Default active color.",
+        "theme": "fold",
+        "value": "{color.base.light.value}",
+        "darkValue": "{color.base.light.darkValue}"
+      },
+      "overlay": {
+        "type": "color",
+        "category": "color",
+        "name": "overlay",
+        "title": "Color Overlay",
+        "description": "Default overlay color. Use this to distinguish modal and popout layers from the layer underneath.",
+        "theme": "fold",
+        "value": "rgba(144, 152, 152, 0.4)",
+        "darkValue": "rgba(9, 10, 12, 0.5)"
+      }
+    }
+  }
+}

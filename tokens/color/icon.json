@@ -1,0 +1,26 @@
+{
+  "color": {
+    "icon": {
+      "base": {
+        "type": "color",
+        "category": "color",
+        "name": "base",
+        "title": "Color Icon",
+        "description": "Default icon color.",
+        "theme": "fold",
+        "value": "{color.base.dark.value}",
+        "darkValue": "{color.base.dark.darkValue}"
+      },
+      "hover": {
+        "type": "color",
+        "category": "color",
+        "name": "hover",
+        "title": "Color Icon Hover",
+        "description": "Default icon hover color.",
+        "theme": "fold",
+        "value": "{color.base.secondary.value}",
+        "darkValue": "{color.base.secondary.darkValue}"
+      }
+    }
+  }
+}

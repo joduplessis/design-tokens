@@ -1,0 +1,55 @@
+{
+  "name": "@joduplessis/design-tokens",
+  "title": "Design tokens",
+  "version": "0.1.0",
+  "description": "Bootstrap your design tokens",
+  "main": "",
+  "module": "",
+  "typings": "",
+  "sideEffects": [
+    "*"
+  ],
+  "pre-commit": [],
+  "files": [
+    ""
+  ],
+  "browserslist": [
+    "last 2 version",
+    "Firefox ESR",
+    "> 1%",
+    "ie >= 9"
+  ],
+  "scripts": {
+    "build": "style-dictionary build --config ./config.js",
+    "compile:sass": "node-sass sass/main.sass css/style.comp.css",
+    "build:sass": "node-sass -r --output-style compressed sass/main.sass -o css",
+    "watch:sass": "npm run build:sass && npm run build:sass -- -w",
+    "concat:css": "concat -o css/style.concat.css css/style.comp.css",
+    "prefix:css": "postcss --use autoprefixer -b \"last 10 versions\" css/style.comp.css -o css/style.prefix.css",
+    "compress:css": "node-sass css/style.concat.css css/style.css --output-style compressed",
+    "build:css": "npm-run-all compile:sass concat:css prefix:css compress:css"
+  },
+  "author": "Jo du Plessis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joduplessis/design-tokens/issues"
+  },
+  "url": "https://github.com/joduplessis/design-tokens",
+  "contributors": [
+    {
+      "name": "joduplessis"
+    }
+  ],
+  "homepage": "https://github.com/joduplessis/design-tokens#readme",
+  "dependencies": {
+    "style-dictionary": "^3.7.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.8",
+    "concat": "^1.0.3",
+    "node-sass": "^7.0.3",
+    "npm-run-all": "^4.1.5",
+    "postcss": "^8.4.16",
+    "postcss-cli": "^10.0.0"
+  }
+}

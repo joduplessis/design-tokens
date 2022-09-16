@@ -1,0 +1,51 @@
+{
+  "size": {
+    "border-radius": {
+      "sharp": {
+        "type": "number",
+        "category": "border-radius",
+        "name": "sharp",
+        "value": "0.02em",
+        "title": "Border Radius Sharp",
+        "description": "This is sharp border radius.",
+        "originalValue": "0.02em"
+      },
+      "s": {
+        "type": "number",
+        "category": "border-radius",
+        "name": "s",
+        "value": "3px",
+        "title": "Border Radius Small",
+        "description": "This is small border radius.",
+        "originalValue": "3px"
+      },
+      "base": {
+        "type": "number",
+        "category": "border-radius",
+        "name": "base",
+        "value": "5px",
+        "title": "Border Radius",
+        "description": "This is the default border radius.",
+        "originalValue": "5px"
+      },
+      "pill": {
+        "type": "number",
+        "category": "border-radius",
+        "name": "pill",
+        "value": "999px",
+        "title": "Border Radius Pill",
+        "description": "This is for creating pill shaped tags and similar.",
+        "originalValue": "999px"
+      },
+      "circle": {
+        "type": "number",
+        "category": "border-radius",
+        "name": "circle",
+        "value": "50%",
+        "title": "Border Radius Circle",
+        "description": "This is for creating rounded avatars and similar objects.",
+        "originalValue": "50%"
+      }
+    }
+  }
+}

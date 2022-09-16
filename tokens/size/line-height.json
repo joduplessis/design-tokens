@@ -1,0 +1,51 @@
+{
+  "size": {
+    "line-height": {
+      "tight": {
+        "type": "number",
+        "category": "line-height",
+        "name": "tight",
+        "value": "1.15",
+        "title": "Line Height Tight",
+        "description": "This token can be used when you don’t want line height taking any extra space.",
+        "originalValue": "1.15"
+      },
+      "heading": {
+        "type": "number",
+        "category": "line-height",
+        "name": "heading",
+        "value": "1.2",
+        "title": "Line Height Heading",
+        "description": "This is the default line height for headings.",
+        "originalValue": "1.2"
+      },
+      "caption": {
+        "type": "number",
+        "category": "line-height",
+        "name": "caption",
+        "value": "1.3",
+        "title": "Line Height Caption",
+        "description": "This is the default line height for captions, hint texts and form errors.",
+        "originalValue": "1.3"
+      },
+      "base": {
+        "type": "number",
+        "category": "line-height",
+        "name": "base",
+        "value": "1.5",
+        "title": "Line Height",
+        "description": "This is the default line height for body text.",
+        "originalValue": "1.5"
+      },
+      "form": {
+        "type": "number",
+        "category": "line-height",
+        "name": "form",
+        "value": "20px",
+        "title": "Line Height Form",
+        "description": "This is the default line height for form inputs, textareas and buttons.",
+        "originalValue": "20px"
+      }
+    }
+  }
+}

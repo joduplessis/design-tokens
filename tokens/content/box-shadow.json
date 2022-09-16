@@ -1,0 +1,67 @@
+{
+  "content": {
+    "box-shadow": {
+      "base": {
+        "type": "...",
+        "category": "box-shadow",
+        "name": "box_shadow",
+        "value": "0 1px 3px rgba(12, 12, 12, 0.09)",
+        "darkValue": "0 1px 3px rgba(0, 0, 0, 0.2)",
+        "title": "Box Shadow",
+        "description": "Default box shadow. Used with buttons, active states, and such.",
+        "theme": "fold"
+      },
+      "header": {
+        "type": "...",
+        "category": "box-shadow",
+        "name": "box_shadow_header",
+        "value": "0 1px 5px rgba(12, 12, 12, 0.05)",
+        "darkValue": "0 1px 5px rgba(0, 0, 0, 0.15)",
+        "title": "Box Shadow Header",
+        "description": "Default box shadow for header component.",
+        "theme": "fold",
+        "originalValue": "0 1px 5px rgba(12, 12, 12, 0.05)"
+      },
+      "card": {
+        "type": "...",
+        "category": "box-shadow",
+        "name": "box_shadow_card",
+        "value": "0 0 0 1px var(--n-color-border), 0 1px 5px rgba(12, 12, 12, 0.05), 0 0 40px rgba(12, 12, 12, 0.015)",
+        "darkValue": "0 0 0 1px var(--n-color-border), 0 1px 5px rgba(0, 0, 0, 0.15)",
+        "title": "Box Shadow Card",
+        "description": "Default box shadow for card component that creates drop shadow, raised surface, and a border around the card.",
+        "theme": "fold"
+      },
+      "nav": {
+        "type": "...",
+        "category": "box-shadow",
+        "name": "box_shadow_nav",
+        "value": "0 0 0 1px var(--n-color-border), 0 5px 17px rgba(12, 12, 12, 0.14)",
+        "darkValue": "0 0 0 1px var(--n-color-border), 0 5px 17px rgba(0, 0, 0, 0.24)",
+        "title": "Box Shadow Nav",
+        "description": "Default box shadow for navigation component. Used in collapsed state.",
+        "theme": "fold"
+      },
+      "popout": {
+        "type": "...",
+        "category": "box-shadow",
+        "name": "box_shadow_popout",
+        "value": "0 4px 12px rgba(12, 12, 12, 0.15), 0 0 0 1px rgba(0, 0, 0, 0.05)",
+        "darkValue": "0 4px 12px rgba(0, 0, 0, 0.25), 0 0 0 1px var(--n-color-border)",
+        "title": "Box Shadow Popout",
+        "description": "Default box shadow to be used with all pop out windows.",
+        "theme": "fold"
+      },
+      "modal": {
+        "type": "...",
+        "category": "box-shadow",
+        "name": "box_shadow_modal",
+        "value": "0 24px 38px 3px rgba(12, 12, 12, 0.16), 0 9px 86px 8px rgba(12, 12, 12, 0.1), 0 11px 15px -7px rgba(12, 12, 12, 0.1), 0 0 0 1px rgba(0, 0, 0, 0.05)",
+        "darkValue": "0 0 0 1px var(--n-color-border), 0 24px 38px 3px rgba(0, 0, 0, 0.34), 0px 9px 86px 8px rgba(0, 0, 0, 0.28), 0px 11px 15px -7px rgba(0, 0, 0, 0.28)",
+        "title": "Box Shadow Modal",
+        "description": "Default box shadow for modal component. Used in dialogs, modals, and such.",
+        "theme": "fold"
+      }
+    }
+  }
+}

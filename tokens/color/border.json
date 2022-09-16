@@ -1,0 +1,36 @@
+{
+  "color": {
+    "border": {
+      "hover": {
+        "type": "color",
+        "category": "color",
+        "name": "hover",
+        "title": "Color Border Hover",
+        "description": "Default border hover color.",
+        "theme": "fold",
+        "value": "{color.base.dark.value}",
+        "darkValue": "{color.base.dark.darkValue}"
+      },
+      "base": {
+        "type": "color",
+        "category": "color",
+        "name": "base",
+        "title": "Color Border",
+        "description": "Default border color.",
+        "theme": "fold",
+        "value": "#d8dee4",
+        "darkValue": "#2f343c"
+      },
+      "strong": {
+        "type": "color",
+        "category": "color",
+        "name": "strong",
+        "title": "Color Border Strong",
+        "description": "Strong border color for highlighting specific parts in the user interface.",
+        "theme": "fold",
+        "value": "#bcc5cc",
+        "darkValue": "#3d434d"
+      }
+    }
+  }
+}

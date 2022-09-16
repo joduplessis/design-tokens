@@ -1,0 +1,105 @@
+{
+  "content": {
+    "index": {
+      "deep": {
+        "type": "number",
+        "category": "z-index",
+        "name": "deep",
+        "value": "-999999",
+        "title": "Z-Index: Deep",
+        "description": "Deep z-index is used to stack something behind everything else.",
+        "originalValue": "-999999"
+      },
+      "default": {
+        "type": "number",
+        "category": "z-index",
+        "name": "default",
+        "value": "1",
+        "title": "Z-Index: Default",
+        "description": "The default z-index for components and elements inside components.",
+        "originalValue": "1"
+      },
+      "masked": {
+        "type": "number",
+        "category": "z-index",
+        "name": "masked",
+        "value": "100",
+        "title": "Z-Index: Masked",
+        "description": "Default z-index for masked interface elements.",
+        "originalValue": "100"
+      },
+      "mask": {
+        "type": "number",
+        "category": "z-index",
+        "name": "mask",
+        "value": "200",
+        "title": "Z-Index: Mask",
+        "description": "Default z-index for masking interface elements.",
+        "originalValue": "200"
+      },
+      "sticky": {
+        "type": "number",
+        "category": "z-index",
+        "name": "sticky",
+        "value": "300",
+        "title": "Z-Index: Sticky",
+        "description": "Default z-index for sticky interface elements.",
+        "originalValue": "300"
+      },
+      "nav": {
+        "type": "number",
+        "category": "z-index",
+        "name": "nav",
+        "value": "400",
+        "title": "Z-Index: Navigation",
+        "description": "Default z-index for navigation.",
+        "originalValue": "400"
+      },
+      "overlay": {
+        "type": "number",
+        "category": "z-index",
+        "name": "overlay",
+        "value": "500",
+        "title": "Z-Index: Overlay",
+        "description": "Default z-index for modal and popup overlays.",
+        "originalValue": "500"
+      },
+      "spinner": {
+        "type": "number",
+        "category": "z-index",
+        "name": "spinner",
+        "value": "600",
+        "title": "Z-Index: Spinner",
+        "description": "Default z-index for spinners, stacking on top of overlay.",
+        "originalValue": "600"
+      },
+      "popout": {
+        "type": "number",
+        "category": "z-index",
+        "name": "popout",
+        "value": "700",
+        "title": "Z-Index: Popout",
+        "description": "Default z-index for popouts that stacks on top of all other elements.",
+        "originalValue": "700"
+      },
+      "toast": {
+        "type": "number",
+        "category": "z-index",
+        "name": "toast",
+        "value": "800",
+        "title": "Z-Index: Toast",
+        "description": "Default z-index for toast messages.",
+        "originalValue": "800"
+      },
+      "modal": {
+        "type": "number",
+        "category": "z-index",
+        "name": "modal",
+        "value": "900",
+        "title": "Z-Index: Modal",
+        "description": "Default z-index for modals that stacks on top of overlays and other elements, but still allows popups to be visible.",
+        "originalValue": "900"
+      }
+    }
+  }
+}

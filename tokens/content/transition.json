@@ -1,0 +1,33 @@
+{
+  "content": {
+    "transition": {
+      "quickly": {
+        "type": "...",
+        "category": "transition",
+        "name": "quickly",
+        "value": "0.05s ease",
+        "title": "Transition Quickly",
+        "description": "Use this design token for a quick transition. Most often used for quick hover effects on things such as links, icons and more.",
+        "originalValue": "0.05s ease"
+      },
+      "slowly": {
+        "type": "...",
+        "category": "transition",
+        "name": "slowly",
+        "value": "0.2s ease",
+        "title": "Transition Slowly",
+        "description": "Use this design token for a slow transition. Used for example in modals, tooltips, collapsing elements, and more.",
+        "originalValue": "0.2s ease"
+      },
+      "mobile": {
+        "type": "...",
+        "category": "transition",
+        "name": "mobile",
+        "value": "0.4s ease",
+        "title": "Transition Mobile",
+        "description": "Use this design token for mobile menu transitions. Used for example in the mobile version of popout and dropdown.",
+        "originalValue": "0.4s ease"
+      }
+    }
+  }
+}

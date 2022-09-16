@@ -1,0 +1,42 @@
+{
+  "color": {
+    "font": {
+      "accent": {
+        "value": "{color.base.accent.value}",
+        "darkValue": "{color.base.accent.darkValue}"
+      },
+      "on_accent": {
+        "value": "{color.base.white.value}",
+        "darkValue": "#fff"
+      },
+      "base": {
+        "value": "{color.base.secondary.value}",
+        "darkValue": "{color.base.secondary.darkValue}"
+      },
+      "link": {
+        "value": "{color.base.accent.value}",
+        "darkValue": "#5c82f5"
+      },
+      "weak": {
+        "value": "#36434A",
+        "darkValue": "{color.base.secondary.darkValue}"
+      },
+      "weaker": {
+        "value": "{color.base.dark.value}",
+        "darkValue": "{color.base.dark.darkValue}"
+      },
+      "weakest": {
+        "value": "#B2BABF",
+        "darkValue": "#555962"
+      },
+      "error": {
+        "value": "{color.base.error.value}",
+        "darkValue": "{color.base.error.darkValue}"
+      },
+      "success": {
+        "value": "{color.base.success.value}",
+        "darkValue": "{color.base.success.darkValue}"
+      }
+    }
+  }
+}

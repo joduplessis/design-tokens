@@ -1,0 +1,79 @@
+{
+  "content": {
+    "font": {
+      "family": {
+        "type": "font",
+        "category": "font",
+        "name": "font_family",
+        "value": "'Fold Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'",
+        "title": "Font Family",
+        "description": "Inter is the default UI font family utilized by all our applications.",
+        "originalValue": "'Fold Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'"
+      },
+      "family_code": {
+        "type": "font",
+        "category": "font",
+        "name": "font_family_code",
+        "value": "'Fold Mono', monospace, monospace",
+        "title": "Font Family Code",
+        "description": "This font family is utilized by all our themes for code.",
+        "originalValue": "'Fold Mono', monospace, monospace"
+      },
+
+      "features": {
+        "type": "font",
+        "category": "font",
+        "name": "font_features",
+        "value": "'kern' 1, 'tnum' 1, 'calt' 1, 'case' 1, 'cv05' 1, 'zero' 1, 'cv08' 0, 'ss03' 1",
+        "title": "Font Features",
+        "description": "This token includes the default font feature settings to be used together with our font family.",
+        "originalValue": "'kern' 1, 'tnum' 1, 'calt' 1, 'case' 1, 'cv05' 1, 'zero' 1, 'cv08' 0, 'ss03' 1"
+      },
+      "features_reduced": {
+        "type": "font",
+        "category": "font",
+        "name": "font_features_reduced",
+        "value": "'kern' 1, 'tnum' 0, 'calt' 1, 'case' 1, 'cv05' 1, 'zero' 0, 'cv08' 0, 'ss03' 1",
+        "title": "Font Features Reduced",
+        "description": "This token includes a font feature variation with reduced legibility. This is mainly used for display headings.",
+        "originalValue": "'kern' 1, 'tnum' 0, 'calt' 1, 'case' 1, 'cv05' 1, 'zero' 0, 'cv08' 0, 'ss03' 1"
+      },
+      "weight": {
+        "type": "font",
+        "category": "font",
+        "name": "font_weight",
+        "value": "400",
+        "title": "Font Weight Default",
+        "description": "Default font weight for body text.",
+        "originalValue": "400"
+      },
+      "weight_active": {
+        "type": "font",
+        "category": "font",
+        "name": "font_weight_active",
+        "value": "500",
+        "title": "Font Weight Active",
+        "description": "Default font weight for active items.",
+        "originalValue": "500"
+      },
+      "weight_heading": {
+        "type": "font",
+        "category": "font",
+        "name": "font_weight_heading",
+        "value": "600",
+        "title": "Font Weight Heading",
+        "description": "Default font weight for headings.",
+        "originalValue": "600"
+      },
+      "weight_strong": {
+        "type": "font",
+        "category": "font",
+        "name": "font_weight_strong",
+        "value": "670",
+        "title": "Font Weight Strong",
+        "description": "Default font weight for strong.",
+        "originalValue": "670"
+      }
+    }
+  }
+}

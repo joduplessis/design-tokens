@@ -1,0 +1,26 @@
+{
+  "color": {
+    "button": {
+      "base": {
+        "type": "color",
+        "category": "color",
+        "name": "base",
+        "title": "Color Button",
+        "description": "Default button background color.",
+        "theme": "fold",
+        "value": "{color.base.white.value}",
+        "darkValue": "{color.base.white.darkValue}"
+      },
+      "hover": {
+        "type": "color",
+        "category": "color",
+        "name": "hover",
+        "title": "Color Button Hover",
+        "description": "Default button hover background color.",
+        "theme": "fold",
+        "value": "{color.base.light.value}",
+        "darkValue": "{color.base.light.darkValue}"
+      }
+    }
+  }
+}

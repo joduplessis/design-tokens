@@ -1,0 +1,26 @@
+{
+  "color": {
+    "surface": {
+      "base": {
+        "type": "color",
+        "category": "color",
+        "name": "base",
+        "title": "Color Surface",
+        "description": "Default application surface color. Use this for e.g. card backgrounds.",
+        "theme": "fold",
+        "value": "{color.base.white.value}",
+        "darkValue": "{color.base.white.darkValue}"
+      },
+      "raised": {
+        "type": "color",
+        "category": "color",
+        "name": "raised",
+        "title": "Color Surface Raised",
+        "description": "Default raised surface color. Use this when you need to separate a specific layer from the surface color, e.g. table headers.",
+        "theme": "fold",
+        "value": "#fafbfb",
+        "darkValue": "#22252b"
+      }
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "size": {
+    "font": {
+      "xxxl": {
+        "type": "number",
+        "category": "font-size",
+        "name": "font_size_xxxl",
+        "value": "2.25rem",
+        "title": "Font Size XXXL",
+        "description": "This is the xxx-large font size.",
+        "originalValue": "2.25rem"
+      },
+      "xxl": {
+        "type": "number",
+        "category": "font-size",
+        "name": "font_size_xxl",
+        "value": "1.5rem",
+        "title": "Font Size XXL",
+        "description": "This is the xx-large font size.",
+        "originalValue": "1.5rem"
+      },
+      "xl": {
+        "type": "number",
+        "category": "font-size",
+        "name": "font_size_xl",
+        "value": "1.25rem",
+        "title": "Font Size XL",
+        "description": "This is the x-large font size.",
+        "originalValue": "1.25rem"
+      },
+      "l": {
+        "type": "number",
+        "category": "font-size",
+        "name": "font_size_l",
+        "value": "1rem",
+        "title": "Font Size L",
+        "description": "This is the large font size.",
+        "originalValue": "1rem"
+      },
+      "m": {
+        "type": "number",
+        "category": "font-size",
+        "name": "font_size_m",
+        "value": "0.875rem",
+        "title": "Font Size M",
+        "description": "This is the base font size.",
+        "originalValue": "0.875rem"
+      },
+      "s": {
+        "type": "number",
+        "category": "font-size",
+        "name": "font_size_s",
+        "value": "0.75rem",
+        "title": "Font Size S",
+        "description": "This is the small font size.",
+        "originalValue": "0.75rem"
+      },
+      "xs": {
+        "type": "number",
+        "category": "font-size",
+        "name": "font_size_xs",
+        "value": "0.6875rem",
+        "title": "Font Size XS",
+        "description": "This is the x-small font size.",
+        "originalValue": "0.6875rem"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "size": {
+    "icon": {
+      "xs": {
+        "type": "number",
+        "category": "size",
+        "name": "size_icon_xs",
+        "value": "8px",
+        "title": "Size Icon XS",
+        "description": "This is a x-small size for icons. Most commonly used for the caret icons inside navigation items.",
+        "originalValue": "8px"
+      },
+      "s": {
+        "type": "number",
+        "category": "size",
+        "name": "size_icon_s",
+        "value": "11px",
+        "title": "Size Icon S",
+        "description": "This is a small size for icons. Most commonly used for icons inside buttons and select menu toggles.",
+        "originalValue": "11px"
+      },
+      "m": {
+        "type": "number",
+        "category": "size",
+        "name": "size_icon_m",
+        "value": "16px",
+        "title": "Size Icon M",
+        "description": "This is a medium size for icons. Most commonly used for icons that sit inside large buttons.",
+        "originalValue": "16px"
+      },
+      "l": {
+        "type": "number",
+        "category": "size",
+        "name": "size_icon_l",
+        "value": "24px",
+        "title": "Size Icon L",
+        "description": "This is a large size for icons. Most commonly used for illustrative purposes.",
+        "originalValue": "24px"
+      },
+      "xl": {
+        "type": "number",
+        "category": "size",
+        "name": "size_icon_xl",
+        "value": "36px",
+        "title": "Size Icon XL",
+        "description": "This is a x-large size for icons. Most commonly used for illustrative purposes.",
+        "originalValue": "36px"
+      },
+      "xxl": {
+        "type": "number",
+        "category": "size",
+        "name": "size_icon_xxl",
+        "value": "72px",
+        "title": "Size Icon XXL",
+        "description": "This is a xx-large size for icons. Most commonly used for illustrative purposes.",
+        "originalValue": "72px"
+      }
+    }
+  }
+}
